@@ -9,7 +9,7 @@
 ### [Udemy - The Complete JavaScript + React Course - From Zero to Result][course-udemy]
 
 ## Languages and Tools:
-
+![HTML](https://img.shields.io/badge/<LABEL>-HTML-E34C26?style=for-the-badge&logo=HTML)
 HTML, CSS, SASS (Scss), JavaScript, React, Node.js, VS Code, Sublime, Atom, GULP, WebPak, git
 ## Contact me
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/telegram.svg" />][telegram]
