@@ -16,6 +16,6 @@ Statistics
 Follow my TikTok channel
 Follow my YouTube channel
 
-[course-fls]:
+[course-fls]: https://github.com/Kady2020
 [course-udemy]:
 <!-- [![Header](Ссылка на изображение)](Ссылка на контент, изображение становится кликабельным) -->
