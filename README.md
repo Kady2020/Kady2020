@@ -12,11 +12,10 @@
 ## Languages and Tools:
 HTML, CSS, SASS (Scss), JavaScript, React, Node.js, VS Code, Sublime, Atom, GULP, WebPak, git
 ## Contact me
-[telegram][email]
+
+telegram
 inst
 vk
-email
-email
 ## Statistics
 
 ## Follow my TikTok channel
@@ -27,8 +26,7 @@ email
 [telegram]: https://t.me/arkolosov
 [instagram]: https://www.instagram.com/pro100kady/
 [vk]: https://vk.com/vkak2020
-[email]: arkolosov2020@yandex.ru
-[tiktok]:
-[youtube]:
-[website]:
+[tiktok]: https://www.tiktok.com/@pro100arkado?lang=ru
+[youtube]: https://www.youtube.com/channel/UCEM8bW2rMR5rVoQ81oSITEg
+[website]: https://github.com/Kady2020
 <!-- [![Header](Ссылка на изображение)](Ссылка на контент, изображение становится кликабельным) -->
