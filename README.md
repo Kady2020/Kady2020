@@ -1,4 +1,4 @@
-### Hi there <img src="" width="25px">, I'm Kolosov Arkady
+### Hi there <img src="https://github.com/Kady2020/Kady2020/blob/main/img/hi-there.gif" width="25px">, I'm Kolosov Arkady
 
 About Me
 
