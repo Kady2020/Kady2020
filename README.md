@@ -9,8 +9,16 @@
 ### [Udemy - The Complete JavaScript + React Course - From Zero to Result][course-udemy]
 
 ## Languages and Tools:
-![HTML](https://img.shields.io/badge/<LABEL>-HTML-E34C26?style=for-the-badge&logo=HTML)
-HTML, CSS, SASS (Scss), JavaScript, React, Node.js, VS Code, Sublime, Atom, GULP, WebPak, git
+![HTML](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![CSS](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![SCSS](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![JavaScript](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![React](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![Node.js](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![VS Code](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![GULP](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![WebPak](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![Git](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 ## Contact me
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/telegram.svg" />][telegram]
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/instagram.svg" />][instagram]
