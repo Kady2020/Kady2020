@@ -11,11 +11,24 @@
 
 ## Languages and Tools:
 HTML, CSS, SASS (Scss), JavaScript, React, Node.js, VS Code, Sublime, Atom, GULP, WebPak, git
-Contact me
-Statistics
-Follow my TikTok channel
-Follow my YouTube channel
+## Contact me
+[telegram][email]
+inst
+vk
+email
+email
+## Statistics
+
+## Follow my TikTok channel
+## Follow my YouTube channel
 
 [course-fls]: https://edu.fls.guru/
 [course-udemy]: https://www.udemy.com/course/javascript_full/
+[telegram]: https://t.me/arkolosov
+[instagram]: https://www.instagram.com/pro100kady/
+[vk]: https://vk.com/vkak2020
+[email]: arkolosov2020@yandex.ru
+[tiktok]:
+[youtube]:
+[website]:
 <!-- [![Header](Ссылка на изображение)](Ссылка на контент, изображение становится кликабельным) -->
