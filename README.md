@@ -12,10 +12,13 @@
 ## Languages and Tools:
 HTML, CSS, SASS (Scss), JavaScript, React, Node.js, VS Code, Sublime, Atom, GULP, WebPak, git
 ## Contact me
+[<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/telegram.svg" />][telegram]
 
-telegram
+
 inst
+https://github.com/Kady2020/Kady2020/blob/main/img/instagram.svg
 vk
+https://github.com/Kady2020/Kady2020/blob/main/img/vk.svg
 ## Statistics
 
 ## Follow my TikTok channel
