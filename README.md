@@ -3,10 +3,9 @@
 - 💪 I am currently working as a SAP QA engineer
 - 💗 I am currently learning JavaScript and aspiring to be a great Frontend Developer
 - 👋 Fun fact: I'm also a beginner blogger :wink:
-## Completed Frontend Development courses:
+# Completed Frontend Development courses:
 
 ## [Freelancer life style][course-fls]
-
 ## [Udemy - The Complete JavaScript + React Course - From Zero to Result][course-udemy]
 
 ## Languages and Tools:
