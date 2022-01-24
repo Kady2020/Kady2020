@@ -5,17 +5,17 @@
 - 👋 Fun fact: I'm also a beginner blogger :wink:
 ## Completed Frontend Development courses:
 
-[Freelancer life style][course-fls]
+## [Freelancer life style][course-fls]
 
-[Udemy - The Complete JavaScript + React Course - From Zero to Result][course-udemy]
+## [Udemy - The Complete JavaScript + React Course - From Zero to Result][course-udemy]
 
 ## Languages and Tools:
+
 HTML, CSS, SASS (Scss), JavaScript, React, Node.js, VS Code, Sublime, Atom, GULP, WebPak, git
 ## Contact me
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/telegram.svg" />][telegram]
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/vk.svg" />][vk]
-
 ## Statistics
 
 ## Follow my TikTok channel
