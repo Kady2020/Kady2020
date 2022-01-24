@@ -9,13 +9,14 @@
 ### [Udemy - The Complete JavaScript + React Course - From Zero to Result][course-udemy]
 
 ## Languages and Tools:
-![HTML](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
-![CSS](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
-![JavaScript](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 ![Node.js](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
-![VS Code](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GULP](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 ![WebPak](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 ![Git](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
