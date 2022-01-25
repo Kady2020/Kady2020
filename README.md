@@ -34,13 +34,25 @@
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/telegram.svg" />][telegram]
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/vk.svg" />][vk]
+
 </br>
 
 ## Follow my TikTok channel
+
+</br>
+
 [<img align="left" alt="codeSTACKr.com" width="40px" src="https://github.com/Kady2020/Kady2020/blob/main/img/tiktok.svg" />][tiktok]
 
+</br>
+
 ## Follow my YouTube channel
+
+</br>
+
 [<img align="left" alt="codeSTACKr.com" width="40px" src="https://github.com/Kady2020/Kady2020/blob/main/img/youtube.svg" />][youtube]
+
+</br>
+
 ## Stats Card
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kady2020&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages Card
