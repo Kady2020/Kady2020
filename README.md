@@ -37,7 +37,7 @@
 ## Statistics
 
 ## Follow my TikTok channel
-## Latest YouTube Videos
+## Follow my YouTube channel
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
