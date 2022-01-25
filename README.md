@@ -41,7 +41,7 @@
 
 </br>
 
-[<img align="left" alt="codeSTACKr.com" width="48px" src="https://github.com/Kady2020/Kady2020/blob/main/img/tiktok.svg" />][tiktok]
+[<img align="left" alt="codeSTACKr.com" width="70px" src="https://github.com/Kady2020/Kady2020/blob/main/img/tiktok.svg" />][tiktok]
 
 </br>
 
@@ -49,7 +49,7 @@
 
 </br>
 
-[<img align="left" alt="codeSTACKr.com" width="48px" src="https://github.com/Kady2020/Kady2020/blob/main/img/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr.com" width="70px" src="https://github.com/Kady2020/Kady2020/blob/main/img/youtube.svg" />][youtube]
 
 </br>
 
