@@ -21,11 +21,12 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![GULP](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
-![WebPak](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
-![Git](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
-![Avocode]()
-![Figma](https://img.shields.io/badge/-MESSAGE-COLOR)
+![WebPak](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Avocode](https://img.shields.io/badge/-Avocode-00B280?style=for-the-badge&logo=avocode)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ## Contact me
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/telegram.svg" />][telegram]
