@@ -35,7 +35,7 @@
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/vk.svg" />][vk]
 ## Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kady2020)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kady2020&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Follow my TikTok channel
 ## Follow my YouTube channel
 <!-- YOUTUBE:START -->
