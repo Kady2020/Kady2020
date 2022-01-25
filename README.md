@@ -25,7 +25,7 @@
 ![WebPak](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 ![Git](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 ![Avocode]()
-![Figma]()
+![Figma](https://img.shields.io/badge/-MESSAGE-COLOR)
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ## Contact me
 [<img align="left" alt="codeSTACKr.com" width="24px" src="https://github.com/Kady2020/Kady2020/blob/main/img/telegram.svg" />][telegram]
