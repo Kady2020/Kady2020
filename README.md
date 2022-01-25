@@ -38,6 +38,8 @@
 
 ## Follow my TikTok channel
 ## Follow my YouTube channel
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 [course-fls]: https://edu.fls.guru/
 [course-udemy]: https://www.udemy.com/course/javascript_full/
