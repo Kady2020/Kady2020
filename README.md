@@ -2,8 +2,7 @@
 
 <!-- [![Header](Ссылка на изображение, для раздела intro)](Ссылка на контент, изображение становится кликабельным) -->
 ## About Me:
-- 💪 I am currently working as a SAP QA engineer
-- 💗 I am currently learning JavaScript and aspiring to be a great Frontend Developer
+- 💪 I am currently working as a SAP ERP engineer, but I am also currently learning JavaScript and striving to become a great Frontend developer.
 - 👋 Fun fact: I'm also a beginner blogger :wink:
 ## Completed Frontend Development courses:
 
