@@ -6,7 +6,7 @@
 - 👋 Fun fact: I'm also a beginner blogger :wink:
 ## Completed Frontend Development courses:
 
-### [FLS (Freelancer life style)][course-fls]
+### [FLS (Freelancer Lifestyle)][course-fls]
 ### [Udemy - The Complete JavaScript + React Course - From Zero to Result][course-udemy]
 
 ## Languages and Tools:
