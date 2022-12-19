@@ -6,8 +6,8 @@
 - 👋 Fun fact: I'm also a beginner blogger :wink:
 ## Completed Frontend Development courses:
 
-### [FLS (Freelancer Lifestyle)][course-fls]
-### [Udemy - The Complete JavaScript + React Course - From Zero to Result][course-udemy]
+<!--[FLS (Freelancer Lifestyle)][course-fls]
+[Udemy - The Complete JavaScript + React Course - From Zero to Result][course-udemy] -->
 
 ## Languages and Tools:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
