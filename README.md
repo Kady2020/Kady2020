@@ -10,7 +10,6 @@
 ### [Udemy - The Complete JavaScript + React Course - From Zero to Result][course-udemy]
 
 ## Languages and Tools:
-![SAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PUG](https://img.shields.io/badge/PUG-4E3B31?style=for-the-badge&logo=pug)
 ![БЭМ (BEM)](https://img.shields.io/badge/-BEM-FCC00?style=for-the-badge&logo=bem&logoColor=FCC00)
